@@ -2,11 +2,9 @@
 
 ## Este é um projeto de jogo de corrida desenvolvido com as tecnologias JavaScript, HTML e CSS. O jogo consiste em controlar um carro e competir contra o tempo, desviando dos obstáculos e fazendo ultrapassagens.
 
-## Como jogar e/ou Instalar 👨‍💻
+## Como Instalar 👨‍💻
 
-### Para jogar o jogo no seu navegador, basta abrir o seguinte link: clonar ou baixar este repositório em seu computador e abrir o arquivo index.html em seu navegador da web.
-
-### Para instalar na sua máquina, basta clonar ou baixar este repositório em seu computador e abrir o arquivo index.html em seu navegador da web. Comando Git para clonar: "git clone https://github.com/seu-usuario/seu-projeto.git".
+### Para instalar na sua máquina, basta clonar ou baixar este repositório em seu computador e abrir o arquivo "index.html" em seu navegador da web. Comando Git para clonar: "git clone https://github.com/seu-usuario/seu-projeto.git".
 
 ## Como jogar 🐱‍👤
 ### 1 - Use as teclas de seta esquerda e direita para mover o carro para a esquerda ou para a direita, respectivamente.
