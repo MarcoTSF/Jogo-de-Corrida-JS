@@ -13,4 +13,6 @@
 ### Desvie dos obstáculos e para não bater.
 ### Se você estiver na areia, o carro terá menos desempenho.
 
-## Este projeto foi desenvolvido como um exercício pessoal, tendo como fonte o vídeo tutorial: "<a href="https://youtu.be/EOemfVmD-1M?list=PLcWVirL3S6DGYVpJ_Yy1M2vnDA74XZE7V">I Created 3D Racing Game under 15 minutes!</a>", do canal "<a href="https://www.youtube.com/@kodemeister">KodeMeister</a>", mas sinta-se à vontade para contribuir ou fazer sugestões para melhorias. Para isso, faça um fork deste repositório, faça as alterações e envie um pull request.
+## Sobre 💢
+
+### Este projeto foi desenvolvido como um exercício pessoal, tendo como fonte o vídeo tutorial: "<a href="https://youtu.be/EOemfVmD-1M?list=PLcWVirL3S6DGYVpJ_Yy1M2vnDA74XZE7V">I Created 3D Racing Game under 15 minutes!</a>", do canal "<a href="https://www.youtube.com/@kodemeister">KodeMeister</a>", mas sinta-se à vontade para contribuir ou fazer sugestões para melhorias. Para isso, faça um fork deste repositório, faça as alterações e envie um pull request.
