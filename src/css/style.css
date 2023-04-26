@@ -150,7 +150,7 @@ h1 {
     font-size: 5em;
 
     background: -webkit-linear-gradient(#25d8b1, #e2bbf0);
-    background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
