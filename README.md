@@ -4,7 +4,7 @@
 
 ## Como Instalar 👨‍💻
 
-### Para instalar na sua máquina, basta clonar ou baixar este repositório em seu computador e abrir o arquivo "index.html" em seu navegador da web.
+### Para instalar na sua máquina, basta clonar ou baixar este repositório em seu computador e abrir o arquivo "index.html" na sua IDE através de uma extensão como a "Live Server Preview".
 
 ### Comando Git para clonar: "git clone https://github.com/MarcoTSF/Jogo-de-Corrida-JS.git".
 
