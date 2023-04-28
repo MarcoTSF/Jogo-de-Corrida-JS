@@ -6,7 +6,10 @@
 
 ### Para instalar na sua máquina, basta clonar ou baixar este repositório em seu computador e abrir o arquivo "index.html" na sua IDE através de uma extensão como a "Live Server Preview".
 
-### Comando Git para clonar: "git clone https://github.com/MarcoTSF/Jogo-de-Corrida-JS.git".
+### Comando Git para clonar:
+```bash
+git clone https://github.com/MarcoTSF/Jogo-de-Corrida-JS.git
+```
 
 ## Como jogar 🐱‍👤
 ### 1 - Use as teclas de seta esquerda e direita para mover o carro para a esquerda ou para a direita, respectivamente.
